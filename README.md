@@ -1,1 +1,1 @@
-# Grafkom
+# Grafika Komputer
